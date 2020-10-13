@@ -1,2 +1,2 @@
-def introduction(hi)
+def introduction(name, language)
 end
